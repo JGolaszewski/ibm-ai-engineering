@@ -4,7 +4,7 @@
 
 This repository contains the hands-on projects and capstone assignments completed as part of the **IBM AI Engineering Professional Certificate**. Each project is contained within a Jupyter Notebook, demonstrating key concepts in Machine Learning, Deep Learning, and Neural Networks.
 
-> **Note:** All notebooks were developed and executed in **Google Colab** to leverage free GPU resources.
+> **Note:** All notebooks were developed and executed in **Google Colab**
 
 ## 📂 Project Index
 
@@ -15,6 +15,11 @@ This repository contains the hands-on projects and capstone assignments complete
 | **Fruit Classification** | [`FruitClassificationUsingTransferLearning.ipynb`](./FruitClassificationUsingTransferLearning.ipynb) | Deep Learning, VGG16, Fine-tuning, MobileNetV2, Data Augmentation |
 | **Rainfall Prediction** | [`RainfallPredictionClassifier.ipynb`](./RainfallPredictionClassifier.ipynb) | Binary Classification, Random Forest, Logistic Regression, Scikit-Learn Pipelines |
 | **Titanic Survival** | [`TitanicSurvivalPrediction.ipynb`](./TitanicSurvivalPrediction.ipynb) | Data Cleaning, Feature Engineering, KNN, Random Forest, Grid Search |
+| **Breast Cancer Classification** | [`BreastCancerClassification.ipynb`](./BreastCancerClassification.ipynb) | Deep Learning (PyTorch), Binary Classification, Data Balancing, UCI Dataset |
+| **Iris Flower Classification** | [`IrisClassification.ipynb`](./IrisClassification.ipynb) | Deep Learning (PyTorch), Multi-class Classification, Scikit-Learn Pipelines |
+| **LoL Match Predictor** | [`LeagueofLegendsMatchPredictor.ipynb`](./LeagueofLegendsMatchPredictor.ipynb) | PyTorch, Logistic Regression, L2 Regularization, ROC & Confusion Matrix |
+
+
 
 ## 🚀 Featured Project Highlights
 
