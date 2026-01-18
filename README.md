@@ -18,7 +18,8 @@ This repository contains the hands-on projects and capstone assignments complete
 | **Breast Cancer Classification** | [`BreastCancerClassification.ipynb`](./BreastCancerClassification.ipynb) | Deep Learning (PyTorch), Binary Classification, Data Balancing, UCI Dataset |
 | **Iris Flower Classification** | [`IrisClassification.ipynb`](./IrisClassification.ipynb) | Deep Learning (PyTorch), Multi-class Classification, Scikit-Learn Pipelines |
 | **LoL Match Predictor** | [`LeagueofLegendsMatchPredictor.ipynb`](./LeagueofLegendsMatchPredictor.ipynb) | PyTorch, Logistic Regression, L2 Regularization, ROC & Confusion Matrix |
-
+| **Anime Face Classification** | [`AnimeFaceClassification.ipynb`](./AnimeFaceClassification.ipynb) | Deep Learning (PyTorch), Computer Vision, Custom Dataset Loading (KaggleHub) |
+| **Fashion Mnist Classification** | [`FashionMnistClassification.ipynb`](./FashionMnistClassification.ipynb) | Deep Learning (PyTorch), CNN, Batch Normalization, SGD Optimizer |
 
 
 ## 🚀 Featured Project Highlights
